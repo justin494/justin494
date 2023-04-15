@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @justin494
-- 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning Machine Learning and Deep Learning
+- 👀 I’m interested in Web Development and Machine Learning
+- 🌱 I’m currently learning MERN stack
 - 📫 How to reach me: justinmathias75@gmail.com
 
 <!---
